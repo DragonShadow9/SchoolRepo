@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+"ghcr.io/devcontainers/features/java:1": {},
+"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {},
+"ghcr.io/devcontainers/features/rust:1": {},
+"ghcr.io/jckimble/devcontainer-features/ngrok:3": {}
+
+  }
+}
